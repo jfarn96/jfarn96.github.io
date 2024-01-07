@@ -1,0 +1,43 @@
+#road {
+    float: right;
+    margin-top: 40%;
+    margin-right: 50px;
+    display: flex;
+}
+
+#Stats{
+    float: right;
+    margin-top: 10%;
+    margin-right: 50px;
+    display: flex;
+}
+
+table{
+    border: 2.5px solid;
+}
+
+th{
+    border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+}
+
+#golpic {
+    height:150px;
+    width:150px;
+}
+
+#gimpic {
+    height:150px;
+    width: 150px;
+}
+
+#sampic {
+    height:150px;
+    width: 150px;
+}
